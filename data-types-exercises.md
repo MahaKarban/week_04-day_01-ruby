@@ -10,28 +10,28 @@
 2 ** 3
 ```
 ```text
-Your answer.
+Your answer.8
 ```
 
 ```rb
 ((16 / 4) * (2 + 1)) ** 2
 ```
 ```text
-Your answer.
+Your answer.144
 ```
 
 ```rb
 ("a milli " + "a milli") * 3
 ```
 ```text
-Your answer.
+Your answer. "a milli a millia milli a millia milli a milli"
 ```
 
 ```rb
 ("a milli " * 4) / 2
 ```
 ```text
-Your answer.
+Your answer.undefined method
 ```
 
 ```rb
@@ -47,7 +47,7 @@ my_favorite_number = 13
 puts "My favorite number is: #{my_favorite_number}"
 ```
 ```text
-Your answer.
+Your answer.My favorite number is: 13
 ```
 
 ### Truthiness and Falsiness
