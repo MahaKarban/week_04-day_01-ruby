@@ -78,7 +78,7 @@ if no_name
 end
 ```
 ```text
-Your answer.
+Your answer. nil
 ```
 
 ```rb
@@ -88,7 +88,7 @@ if no_name
 end
 ```
 ```text
-Your answer.
+Your answer.nil
 ```
 
 ```rb
@@ -98,7 +98,7 @@ if age
 end
 ```
 ```text
-Your answer.
+Your answer.no implicit conversion of nil into String
 ```
 
 ```rb
@@ -108,7 +108,7 @@ if age
 end
 ```
 ```text
-Your answer.
+Your answer."if age  puts \"My age is: \" + ageend"
 ```
 
 ### Conditionals
